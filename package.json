@@ -1,0 +1,11 @@
+{
+  "name": "redis-converter",
+  "version": "1.0.0",
+  "description": "convert redis data into json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Anand",
+  "license": "ISC"
+}
